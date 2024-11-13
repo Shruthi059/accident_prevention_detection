@@ -1,1 +1,2 @@
-# accident_prevention_detection
+This project focuses on developing a system that can detect accidents, control potential hazards, and promptly alert the appropriate parties using a notification system. The solution leverages sensor data, image processing, and real-time notifications to recognize accidents and control further damage by initiating timely alerts.
+Goal:The primary objective of this project is to reduce the risk and impact of accidents by automating the detection and response process, making workplaces and environments safer. This system can be especially valuable in industries like manufacturing, transportation, and construction, where timely accident response is crucial.
